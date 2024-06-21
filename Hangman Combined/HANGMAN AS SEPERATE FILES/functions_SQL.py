@@ -11,10 +11,10 @@ from Word_Source import *
 #dr = pyodbc.drivers()
 #print(f'THIS IS MY DRIVER --- {dr}')
 
-SERVER = "sql8010.site4now.net"
-DATABASE = "db_aa964e_db"
-USERNAME = "db_aa964e_db_admin"
-PASSWORD = "asdf12345"
+SERVER = ""
+DATABASE = ""
+USERNAME = ""
+PASSWORD = ""
 
 
 
