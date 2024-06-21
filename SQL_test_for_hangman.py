@@ -1,9 +1,9 @@
 import pyodbc
 
-SERVER = "servername\test"
-DATABASE = "WebApp"
-USERNAME = "usernme"
-PASSWORD = "password"
+SERVER = ""
+DATABASE = ""
+USERNAME = ""
+PASSWORD = ""
 
 connectionString = f'DRIVER={{SQL SERVER}};SERVER={SERVER};DATABASE={DATABASE};UID={USERNAME};PWD={PASSWORD}'
 conn = pyodbc.connect(connectionString)
